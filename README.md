@@ -83,3 +83,10 @@ Fork this repo, and _make your new repo private_. Write your code in a sub-folde
 Send `stella.tao@apcapitalinvestment.com` the _private_ GitHub link when you're done.
 
 Good luck!
+
+## How to run script
+
+- npm i
+- npm run test
+
+Then you can see the flow on console.
